@@ -1,0 +1,23 @@
+name: minecraft_skin_ripper
+version: 0.1.0
+
+targets:
+  mcskinripper:
+    main: src/minecraft_skin_ripper.cr
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of minecraft_skin_ripper
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
